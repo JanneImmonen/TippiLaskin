@@ -1,15 +1,12 @@
-# TippiLaskin
+# 🧮 TippiLaskin
 
 **Version 1.0.0**
 
-Tippilaskin
-
-Xcode Project
+📱 Xcode Project, made by using SwiftUI
 
 ---
 
-## Contributors
+## Author
 
 - Janne Immonen <immonenjanne@icloud.com>
-
----
+- 
