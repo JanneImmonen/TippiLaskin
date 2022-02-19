@@ -7,6 +7,10 @@
 
 ---
 
+✖️ Tip calculator
+
+---
+
 ## Author
 
 - Janne Immonen <immonenjanne@icloud.com>
