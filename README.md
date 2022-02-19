@@ -1,7 +1,15 @@
 # TippiLaskin
 
+**Version 1.0.0**
+
 Tippilaskin
 
-// kokeilu
+Xcode Project
 
-// testi
+---
+
+## Contributors
+
+- Janne Immonen <immonenjanne@icloud.com>
+
+---
